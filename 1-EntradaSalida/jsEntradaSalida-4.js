@@ -4,6 +4,9 @@
 */
 function Mostar()
 {
-	
+	var nombre;
+	nombre=prompt("ingresar nombre");
+	document.getElementById('elNombre').value=nombre;
+	//luego de ".value" debe colocarse el signo igual más la variable. en este caso nombre.
 }
 
