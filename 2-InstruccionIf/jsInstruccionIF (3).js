@@ -5,16 +5,16 @@ function Mostrar()
 	var edad;
 	edad=document.getElementById('edad').value;
 
-		if(edad<=17)
-
+		if (edad<=17) 
+			
 			{
-				alert("menor de edad");
-			}
+			alert("Menor de edad");
+			} 
+			
+			else
 
-		if(edad>17)
-
-			{
+				{
 				alert("mayor de edad");
-			}
+				}
 	
 }//FIN DE LA FUNCIÓN
