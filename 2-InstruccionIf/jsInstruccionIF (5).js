@@ -5,9 +5,13 @@ function Mostrar()
 	var edad;
 	edad=document.getElementById('edad').value;
 
-		if(edad<13||edad>18) 
-			
+		if(edad<13||edad>17)
+
+		{
+			alert("No adolescente");
+		}
+			else
 			{
-				alert("No adolescente");
+				alert("Adolescente");
 			}
 }//FIN DE LA FUNCIÓN
