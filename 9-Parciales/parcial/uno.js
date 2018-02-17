@@ -1,8 +1,11 @@
 
 function Mostrar()
 {
-var base;
-var perimetro;
-base=document.getElementById('laBase').value,
-perimetro=document.getElementById('perimetro')
+	var base;
+	var perimetro;
+
+	base=document.getElementById('laBase').value;
+	perimetro=base*4;
+
+	alert("La base es " +perimetro);
 }
