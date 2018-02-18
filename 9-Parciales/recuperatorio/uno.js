@@ -9,5 +9,5 @@ function Mostrar()
 	superficie= base*base;
 
 	alert("La superficie es " +superficie);
-
+	
 }
