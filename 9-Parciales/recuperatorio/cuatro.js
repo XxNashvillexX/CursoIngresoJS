@@ -35,7 +35,7 @@ function Mostrar()
 			else
 
 			{
-				document.write(text3)
+				document.write(text3) 
 			}
 		}
 }
