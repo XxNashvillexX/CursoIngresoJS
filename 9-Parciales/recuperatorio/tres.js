@@ -19,5 +19,4 @@ function Mostrar()
 
 	alert("la suma del precio de los productos es: $" +suma+ " .Y su promedio es de: " +promedio);
 
-
 }
