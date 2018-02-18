@@ -9,5 +9,5 @@ function Mostrar()
 	descuento=importe*0.25;
 	importeFinal=importe-descuento;
 
-	document.getElementById('importeFinal').value=importeFinal;
+	document.getElementById('importeFinal').value=importeFinal; 
 }
