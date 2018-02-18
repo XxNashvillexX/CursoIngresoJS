@@ -34,7 +34,7 @@ function Mostrar()
 
 		case "diciembre":
 			alert("Se vienen las fiestas")
-			break;
+			break; 
 	}
 
 }
